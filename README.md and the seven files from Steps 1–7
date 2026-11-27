@@ -1,12 +1,3 @@
-# RupeeRise: Fact-Checking an AI-Written Investor Brief
-
-
-**A FinTech case study on catching AI hallucinations before they reach investors.**
-
-
-Author: [Deevanshu Sharma ] · BBA (FinTech), Chitkara Business School · Tools: Claude, ChatGPT, Perplexity · [11-2026]
-
-
 ## The case
 **RupeeRise** (fictional) is a digital lending app in Bengaluru. Its founder asked AI to write an investor brief on India's digital lending and UPI market and wanted to send it as it was. As a Business Analyst, I checked every claim against official sources before it could reach investors.
 
